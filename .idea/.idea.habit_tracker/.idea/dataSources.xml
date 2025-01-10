@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="habit_tracker.db" uuid="ca5113eb-8059-4865-b5d3-1371a102d3a7">
+    <data-source source="LOCAL" name="habit_tracker.db" uuid="92f30fd8-412c-449b-a89d-52594c439120">
       <driver-ref>sqlite.xerial</driver-ref>
       <synchronize>true</synchronize>
       <configured-by-url>true</configured-by-url>
       <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
-      <jdbc-url>jdbc:sqlite:habit_tracker.db</jdbc-url>
+      <jdbc-url>jdbc:sqlite:habit_tracker/bin/Debug/net8.0/habit_tracker.db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
